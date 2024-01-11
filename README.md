@@ -1,4 +1,7 @@
-# Térháló alkotás 3D LIDAR pontfelhő alapján - Mesh creation based on 3D LIDAR point cloud
+# Mesh creation based on 3D LIDAR point cloud
+
+Download and view online [campus mesh](https://laesze-my.sharepoint.com/:u:/g/personal/herno_o365_sze_hu/EWsdblWHYARNiZBbDhcDZoYBfjdZKvV1o_ZIyBcag-QRVQ?e=jLwYcq) ~75 Mb
+
 <p>
 <b>Szakdolgozat téma leírása:</b>
 </p>
